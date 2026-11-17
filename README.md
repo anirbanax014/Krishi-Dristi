@@ -1,4 +1,4 @@
-<h1 align="center">Fasal-Mitra App</h1>
+<h1 align="center">Krishi Dristi</h1>
 
 <div align="center">
 
